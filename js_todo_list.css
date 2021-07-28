@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    color: lightslategrey;
+}
+
+
+#textbox{
+    display: flex;
+}
+
+#add{
+    color: white;
+    background-color: lightskyblue;
+}
+
+#pending{
+    display: flex;
+    flex-direction: column;
+    color: lightslategrey;
+}
+
+#completed{
+    display: flex;
+    flex-direction: column;
+    color: lightslategrey;
+}
+
+.tasks{
+    display: flex;
+    background-color: lightskyblue;
+}
